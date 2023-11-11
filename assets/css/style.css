@@ -1,0 +1,23 @@
+img {
+    width: 250px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 400px;
+}
+
+.kart1 {
+    position: absolute;
+    margin-top: 200px;
+    transform: rotate(-20deg);
+}
+
+.kart2 {
+    position: absolute;
+    margin-left: 300px;
+    transform: rotate(10deg);
+}
